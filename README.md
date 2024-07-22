@@ -23,7 +23,7 @@ The target condition values are cycle-wise annotated in the `profile.txt` file.
 ### 📊 Creating Statistical Features
 To handle the multiple dimensions of the data, statistical features were created, transforming the time series into a single dimension. This process allows for a more straightforward analysis and visualization of the data. The image below illustrates this transformation for one of the sensors:
 
-![PS1](figures/statistical_PS1.png)
+![PS1](figures/statistics_PS1.png)
 
 
 ## Project Structure

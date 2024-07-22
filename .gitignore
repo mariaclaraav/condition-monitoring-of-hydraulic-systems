@@ -3,3 +3,7 @@
 
 # Ignore all .parquet files
 *.parquet
+
+# But not these specific .txt files
+!docs/description.txt
+!docs/documentation.txt
